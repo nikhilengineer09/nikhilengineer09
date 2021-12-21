@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nikhil.
-- 👀 I’m interested in programming & related stuffs.
-- 🌱 I’m currently learning C++, Data Structures & Algorithms.
-- 💞️ I’m looking to collaborate on Python or C++ related projects.
+- 👋 Hi, I’m Nikhil Joshi.
+- 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Science.
+- 🌱 I’m currently learning ML Algorithms.
+- 💞️ I’m looking to collaborate on ML and AI projects.
 
 
 <!---
