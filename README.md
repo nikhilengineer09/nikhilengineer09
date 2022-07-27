@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhil Joshi.
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning ML Algorithms.
-- 💞️ I’m looking to collaborate on ML and AI projects.
+- 👀 I’m interested in Data Science and Data Analytics.
+- 🌱 I have Python, Numpy, Pandas, Matplotlib, MS Excel, Microsoft Power BI under my belt.
+- 💞️ I’m looking to collaborate on Data Science, ML and Analytics projects.
 
 
 <!---
