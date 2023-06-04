@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhil Joshi.
-- 👀 I’m interested in Data Science and Data Analytics.
-- 🌱 I have Python, Numpy, Pandas, Matplotlib, MS Excel, Microsoft Power BI under my belt.
-- 💞️ I’m looking to collaborate on Data Science, ML and Analytics projects.
+- 👀 I’m interested in Web Development and Data Science.
+- 🌱 I have Java, Python, JavaScript, Python Libraries, React.js under my belt.
+- 💞️ I’m looking to collaborate on Web Development, Data Science, ML and Analytics projects.
 
 
 <!---
